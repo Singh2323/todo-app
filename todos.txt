@@ -1,6 +1,5 @@
 exercise
 Clean
-Shower
-Walk
-program
-Code pythonMaster Python
+Gymprogram
+Code python
+Master PythonAnd lastly
