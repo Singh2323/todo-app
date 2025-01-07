@@ -2,3 +2,5 @@ exercise
 Clean
 Code python
 money
+Chest workoutShoulder workout
+legs workout
